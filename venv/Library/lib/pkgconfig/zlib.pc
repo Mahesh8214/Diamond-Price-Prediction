@@ -1,0 +1,13 @@
+prefix=D:/pwskills/project/Daimond Price Prediction/venv/Library
+exec_prefix=D:/pwskills/project/Daimond Price Prediction/venv/Library
+libdir=D:/pwskills/project/Daimond Price Prediction/venv/Library/lib
+sharedlibdir=D:/pwskills/project/Daimond Price Prediction/venv/Library/lib
+includedir=D:/pwskills/project/Daimond Price Prediction/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

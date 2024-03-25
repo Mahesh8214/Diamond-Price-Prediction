@@ -1,0 +1,12 @@
+prefix=D:/pwskills/project/Daimond Price Prediction/venv/Library
+exec_prefix=D:/pwskills/project/Daimond Price Prediction/venv/Library
+libdir=D:/pwskills/project/Daimond Price Prediction/venv/Library/lib
+includedir=D:/pwskills/project/Daimond Price Prediction/venv/Library/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.39
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: -lz
+Cflags: -I${includedir}

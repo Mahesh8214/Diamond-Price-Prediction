@@ -1,0 +1,107 @@
+{
+  "build": "py38haa95532_8",
+  "build_number": 8,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "ipykernel",
+    "ipywidgets",
+    "jupyter_console",
+    "jupyterlab",
+    "nbconvert",
+    "notebook",
+    "python >=3.8,<3.9.0a0",
+    "qtconsole"
+  ],
+  "extracted_package_dir": "E:\\anaconda3\\pkgs\\jupyter-1.0.0-py38haa95532_8",
+  "files": [
+    "Lib/site-packages/jupyter-1.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/LICENSE",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/METADATA",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/RECORD",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/WHEEL",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/jupyter-1.0.0.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "jupyter-1.0.0-py38haa95532_8.conda",
+  "legacy_bz2_md5": "bddfdbe4ec7d950576d1eb107f253caf",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "E:\\anaconda3\\pkgs\\jupyter-1.0.0-py38haa95532_8",
+    "type": 1
+  },
+  "md5": "976065f2e07ee6c0bfade3037ce6511d",
+  "name": "jupyter",
+  "package_tarball_full_path": "E:\\anaconda3\\pkgs\\jupyter-1.0.0-py38haa95532_8.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/jupyter-1.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/jupyter-1.0.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "45a62b620e147140a0d4214467bc16e136983e5a2dba562852e5a6718597000d",
+        "sha256_in_prefix": "45a62b620e147140a0d4214467bc16e136983e5a2dba562852e5a6718597000d",
+        "size_in_bytes": 1481
+      },
+      {
+        "_path": "Lib/site-packages/jupyter-1.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1d59019c382e1da72b716c1119429a75ad1a343f33bfaf864f6d6d4db70f133f",
+        "sha256_in_prefix": "1d59019c382e1da72b716c1119429a75ad1a343f33bfaf864f6d6d4db70f133f",
+        "size_in_bytes": 1016
+      },
+      {
+        "_path": "Lib/site-packages/jupyter-1.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "816e842de10c49eabc58be26ce6381c1b5263136ee6175eb0eb3f2c8fc68ce64",
+        "sha256_in_prefix": "816e842de10c49eabc58be26ce6381c1b5263136ee6175eb0eb3f2c8fc68ce64",
+        "size_in_bytes": 768
+      },
+      {
+        "_path": "Lib/site-packages/jupyter-1.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/jupyter-1.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "sha256_in_prefix": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/jupyter-1.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "1ff96c2df8de2060a5be31f33834e96883c62da65c6087761ab9490deba6ded7",
+        "sha256_in_prefix": "1ff96c2df8de2060a5be31f33834e96883c62da65c6087761ab9490deba6ded7",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "Lib/site-packages/jupyter-1.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ce72f0b7a376799ffbbb57931dceab5c9e1cea2254ce6855d4d37bdc7ba54e44",
+        "sha256_in_prefix": "ce72f0b7a376799ffbbb57931dceab5c9e1cea2254ce6855d4d37bdc7ba54e44",
+        "size_in_bytes": 8
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "jupyter",
+  "sha256": "5075aea85b07f51967e94331886019bf6f170f3239b6bbb40789adb2aa71cf4b",
+  "size": 7527,
+  "subdir": "win-64",
+  "timestamp": 1659349554155,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyter-1.0.0-py38haa95532_8.conda",
+  "version": "1.0.0"
+}

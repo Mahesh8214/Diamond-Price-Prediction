@@ -50,6 +50,23 @@ Diamond-Price-Prediction/
 
 ---
 
+**
+---
+
+## 🧠 Model Training Workflow
+
+* 📥 **Data Loading**: Loaded the `gemstone.csv` dataset using `pandas`.
+* 🧹 **Data Cleaning**: Dropped unnecessary columns (e.g., `id`) to prepare the dataset.
+* 🔄 **Preprocessing**: Applied data transformation (likely includes encoding, scaling — further confirmed in next cells).
+* ✂️ **Feature Engineering**: Selected relevant features for modeling.
+* 🧪 **Train-Test Split**: Divided data into training and testing sets to evaluate model generalization.
+* 📈 **Model Building**: Trained regression models (such as Linear Regression, Random Forest, or others).
+* ✅ **Model Evaluation**: Evaluated model performance using metrics like R² Score, MAE, or RMSE.
+* 💾 **Model Persistence**: Saved the trained model for future inference or deployment using `pickle` or `joblib`.
+
+---
+**
+
 ## 🧩 Workflow Diagram
 
 > Flow of your SoulCare system:

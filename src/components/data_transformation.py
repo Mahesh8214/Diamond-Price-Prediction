@@ -11,7 +11,7 @@ from src.logger import logging
 from src.exception import CustomException
 from src.utils import save_object
 import pandas as pd 
-import numpy as np
+import numpy as np 
 
 ## data transformation config
 
